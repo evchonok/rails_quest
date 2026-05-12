@@ -1,9 +1,41 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  agent: one
-  skill: one
+atlas_crypto:
+  agent: atlas
+  skill: cryptography
 
-two:
-  agent: two
-  skill: two
+atlas_recon:
+  agent: atlas
+  skill: recon
+
+echo_medicine:
+  agent: echo
+  skill: field_medicine
+
+echo_infil:
+  agent: echo
+  skill: infiltration
+
+echo_recon:
+  agent: echo
+  skill: recon
+
+nova_crypto:
+  agent: nova
+  skill: cryptography
+
+nova_negotiation:
+  agent: nova
+  skill: negotiation
+
+viper_infil:
+  agent: viper
+  skill: infiltration
+
+viper_negotiation:
+  agent: viper
+  skill: negotiation
+
+viper_recon:
+  agent: viper
+  skill: recon

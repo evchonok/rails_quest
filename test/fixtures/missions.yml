@@ -1,11 +1,51 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: Rescue Mission
-  status: assigned
-  agent: one
+ember_trace:
+  title: Ember Trace
+  status: completed
+  agent: viper
 
-two:
-  title: Recon Mission
+frozen_cipher:
+  title: Frozen Cipher
+  status: assigned
+  agent: nova
+
+ghost_signal:
+  title: Ghost Signal
   status: in_progress
-  agent: two
+  agent: echo
+
+glass_horizon:
+  title: Glass Horizon
+  status: completed
+  agent: viper
+
+harbor_shield:
+  title: Harbor Shield
+  status: assigned
+  agent: atlas
+
+iron_veil:
+  title: Iron Veil
+  status: in_progress
+  agent: echo
+
+midnight_relay:
+  title: Midnight Relay
+  status: assigned
+  agent: atlas
+
+sapphire_run:
+  title: Sapphire Run
+  status: in_progress
+  agent: echo
+
+silent_echo:
+  title: Silent Echo
+  status: assigned
+  agent: atlas
+
+solar_tide:
+  title: Solar Tide
+  status: in_progress
+  agent: echo

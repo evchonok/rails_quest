@@ -1,11 +1,21 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  codename: Agent_Alpha
-  level: 1
-  active: false
+atlas:
+  codename: Atlas
+  level: 5
+  active: true
 
-two:
-  codename: Agent_Beta
-  level: 1
-  active: false
+echo:
+  codename: Echo
+  level: 4
+  active: true
+
+nova:
+  codename: Nova
+  level: 3
+  active: true
+
+viper:
+  codename: Viper
+  level: 5
+  active: true

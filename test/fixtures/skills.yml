@@ -1,9 +1,21 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: Hacking
+cryptography:
+  name: Cryptography
   category: Technical
 
-two:
-  name: Stealth
+recon:
+  name: Recon
+  category: Technical
+
+field_medicine:
+  name: Field Medicine
+  category: Medical
+
+infiltration:
+  name: Infiltration
   category: Combat
+
+negotiation:
+  name: Negotiation
+  category: Social
